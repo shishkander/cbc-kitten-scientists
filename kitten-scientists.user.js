@@ -25,7 +25,7 @@ var run = function() {
         debug: false,
 
         // The interval at which the internal processing loop is run, in milliseconds.
-        interval: 2000,
+        interval: 750,
 
         // The default color for KS messages in the game log (like enabling and disabling items).
         msgcolor: '#aa50fe', // dark purple
